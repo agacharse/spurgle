@@ -48,7 +48,6 @@ Spurgle! This is where dreams are made and broken. This is maximum chaos—cards
 4. Optional: The defender may play one card from their Strategy Hand to increase their total
 5. The player with the highest total gathers all cards from the Spurgle! and adds them to their Strategy Hand
 6. The winner also takes the top card from the Scrap Pile and adds it to their War Deck
-7. The loser pays a blood tax by discarding two cards from their Strategy Hand into the Scrap Pile
 
 
 ### Naked Viking
