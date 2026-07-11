@@ -2,7 +2,8 @@ Spurgle! is absolute chaos wrapped in strategy, equal parts aggressive and fair.
 
 This game channels wild Norwegian roots and Viking spirit, blending rugged Nordic flair with brutal strategy.
 
-<hr style="border: 0; height: 8px; background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet); width: 80%; margin: 0 auto; border-radius: 4px;" />
+<br>
+<hr style="border: 0; height: 8px; background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet); width: 90%; margin: 0 auto; border-radius: 4px;" />
 
 - [Dealing](#dealing)
 - [Turns](#turns)
