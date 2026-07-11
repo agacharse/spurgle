@@ -1,10 +1,20 @@
-Spurgle! is a hybrid card game that pits tactical deck-building against direct confrontation. You control two hands: one for stealing victory through combat, one for securing it through cunning. The player who masters both and empties their Strategy Hand first wins—but beware, every aggressive play leaves you vulnerable.
+Spurgle! is absolute chaos wrapped in strategy, equal parts aggressive and fair. You're juggling two decks, playing both chess master and street fighter, constantly pivoting between calculated plotting and all-out warfare. Outthink your opponents, outfight them, and empty your Strategy Hand before they empty theirs. But watch out—one wild play can turn you from hunter to hunted.
+
+### Outline
+
+- Outline
+  - [Dealing](#dealing)
+  - [Turns](#turns)
+    - [Scrap Raid](#scrap-raid)
+    - [Spurgle](#spurgle)
+  - [Naked Warrior](#naked-warrior)
+    - [Naked Spurgle!](#naked-spurgle)
 
 **Win Condition:** Be the first player to empty their Strategy Hand
 
 ### Dealing
 
-Each player begins with a split hand, embodying the duality at the heart of Spurgle!. Your War Deck is your weapon in combat—draw from it during Spurgles! for raw power. Your Strategy Hand is your tool for victory—discard it to win the game, and protect it at all costs.
+Two hands to rule them all. Your War Deck is pure, aggressive force—each card a blunt instrument in your arsenal. Your Strategy Hand? That's where the fair side of the game shines. Lay down devastating Melds, fuel your attacks, block incoming strikes, and ultimately—get rid of every last card to claim victory. Guard it like your life depends on it.
 
 1. Deal 5 cards to each player for their War Deck
 2. Deal 5 more cards to each player for their Strategy Hand
@@ -12,7 +22,7 @@ Each player begins with a split hand, embodying the duality at the heart of Spur
 
 ### Turns
 
-Each turn presents a critical choice: Do you strike boldly with a Spurgle!, or carefully rebuild with a Scrap Raid? After resolving your opening move, you may lay down Melds to organize and discard cards—every Meld brings you closer to victory, but every card played is a card that can't defend you.
+Every turn is a nail-biter. Go for broke with a Spurgle! or hunt the discard pile for hidden treasure? This game is aggressive, but it is also fair—every move gives your opponent a chance to answer. Drop Melds like you're building a fortress—each one gets you closer to victory, but also strips away your defenses. The tension never stops.
 
 1. Start your turn with either a Spurgle! or a Scrap Raid
 2. Optional: Lay down Melds from your Strategy Hand
@@ -21,14 +31,14 @@ Each turn presents a critical choice: Do you strike boldly with a Spurgle!, or c
 
 ##### Scrap Raid
 
-The cautious path—salvage resources and cycle your deck. Scrap Raiding is both a safety valve and a desperate gamble: you might draw the card you need, or you might thin your War Deck dangerously low.
+This ain't the defensive play. Scrap Raiding is an aggressive predator's move—you're diving into the discard pile like a hungry shark, hunting for THAT card to turn the tide. You're weaponizing luck, burning through your War Deck in exchange for board advantage. Every Scrap Raid is a calculated gamble, and it's fair because every player can feel the same pressure: find your salvation or get picked clean.
 
 1. Take the top card from the Scrap Pile and add it to your Strategy Hand
 2. Take the top card from your War Deck and insert it to the Scrap Pile
 
 ##### Spurgle!
 
-This is War—a moment of explosive confrontation where aggression meets opportunity. Choose your target wisely: strike someone weakening at just the right moment, or risk everything on an unpredictable clash. Both players may amplify their hand with a single card from their arsenal, creating tense decisions about how much to risk.
+SPURGLE! This is where dreams are made and broken. This is maximum chaos—cards flying, hearts pounding, someone's about to lose big. You pick the target, you throw down the challenge, and YELL IT TO THE HEAVENS. Both players unleash their fury, and only the strongest will walk away. Will you double down with a card from your Strategy Hand, or leave it all to fate?
 
 1. Choose a target and yell Spurgle!
 2. Both participants put out the top card from their War Deck
@@ -41,11 +51,11 @@ This is War—a moment of explosive confrontation where aggression meets opportu
 
 ### Naked Warrior
 
-If your War Deck becomes empty, you are now a Naked Warrior for the rest of the game. The rules of Spurgle! shift dramatically. You are no longer shielded by the randomness of your War Deck—every clash is a deliberate act of will, every card you play comes from your hand to victory. The game becomes intensely personal.
+Your War Deck is GONE. You're a Naked Warrior now, and the battlefield has become a mirror. No hidden cards. No luck. No mercy. Every clash is a stare-down, every card a declaration of intent. The game shifts from aggressive, bare-knuckle combat to a fair test of who can outplay the other.
 
 ##### Naked Spurgle!
 
-When a Naked Warrior engages in Spurgle!, the rules of engagement change. There is no hidden card, no War Deck to draw from. Instead, Naked Warriors must commit directly, playing card-for-card in a battle of pure strategy. In exchange, they are protected from the cruelest aspects of defeat.
+When a Naked Warrior Spurgles!, it's bare-knuckle brawling. No hidden cards, no lucky draws—just you, your hand, and your opponent facing off in direct combat. You're exposed, yeah, but you're also DANGEROUS. And when you lose? You get a cruel twist of irony: the Scrap Pile feeds you instead of bleeding you out.
 
 1. Naked Warriors play one card directly from ther Strategy Hand
 2. Naked Warriors do not get a chance to put down a second card 
