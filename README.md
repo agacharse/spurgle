@@ -28,7 +28,7 @@ Every turn is a nail-biter. Go for broke with a Spurgle! or hunt the discard pil
 
 1. Start your turn with either a Spurgle! or a Scrap Raid
 2. Optional: Lay down Melds from your Strategy Hand
-3. Discard one card from your Strategy Hand for each new Meld
+3. Discard one card from your Strategy Hand if you put down any new Melds
 4. Optional: Play cards on any existing Melds, including others'
 
 ##### Scrap Raid
@@ -40,7 +40,7 @@ This ain't the defensive play. Scrap Raiding is an aggressive predator's move—
 
 ##### Spurgle!
 
-SPURGLE! This is where dreams are made and broken. This is maximum chaos—cards flying, hearts pounding, someone's about to lose big. You pick the target, you throw down the challenge, and YELL IT TO THE HEAVENS. Both players unleash their fury, and only the strongest will walk away. Will you double down with a card from your Strategy Hand, or leave it all to fate?
+Spurgle! This is where dreams are made and broken. This is maximum chaos—cards flying, hearts pounding, someone's about to lose big. You pick the target, you throw down the challenge, and YELL IT TO THE HEAVENS. Both players unleash their fury, and only the strongest will walk away. Will you double down with a card from your Strategy Hand, or leave it all to fate?
 
 1. Choose a target and yell Spurgle!
 2. Both participants put out the top card from their War Deck
