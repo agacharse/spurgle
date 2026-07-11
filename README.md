@@ -1,14 +1,13 @@
 Spurgle! is absolute chaos wrapped in strategy, equal parts aggressive and fair. You're juggling two decks, playing both chess master and street fighter, constantly pivoting between calculated plotting and all-out warfare. Outthink your opponents, outfight them, and empty your Strategy Hand before they empty theirs. But watch out—one wild play can turn you from hunter to hunted.
 
-### Outline
+This game channels wild Norwegian roots and Viking spirit, blending rugged Nordic flair with brutal strategy.
 
-- Outline
-  - [Dealing](#dealing)
-  - [Turns](#turns)
-    - [Scrap Raid](#scrap-raid)
-    - [Spurgle](#spurgle)
-  - [Naked Warrior](#naked-warrior)
-    - [Naked Spurgle!](#naked-spurgle)
+- [Dealing](#dealing)
+- [Turns](#turns)
+  - [Scrap Raid](#scrap-raid)
+  - [Spurgle](#spurgle)
+- [Naked Warrior](#naked-warrior)
+  - [Naked Spurgle!](#naked-spurgle)
 
 **Win Condition:** Be the first player to empty their Strategy Hand
 
@@ -49,13 +48,13 @@ SPURGLE! This is where dreams are made and broken. This is maximum chaos—cards
 7. The loser pays a blood tax by discarding two cards from their Strategy Hand into the Scrap Pile
 
 
-### Naked Warrior
+### Naked Viking
 
-Your War Deck is GONE. You're a Naked Warrior now, and the battlefield has become a mirror. No hidden cards. No luck. No mercy. Every clash is a stare-down, every card a declaration of intent. The game shifts from aggressive, bare-knuckle combat to a fair test of who can outplay the other.
+Your War Deck is GONE. You're a Naked Viking now, and the battlefield has become a mirror. No hidden cards. No luck. No mercy. Every clash is a stare-down, every card a declaration of intent. The game shifts from aggressive, bare-knuckle combat to a fair test of who can outplay the other.
 
 ##### Naked Spurgle!
 
-When a Naked Warrior Spurgles!, it's bare-knuckle brawling. No hidden cards, no lucky draws—just you, your hand, and your opponent facing off in direct combat. You're exposed, yeah, but you're also DANGEROUS. And when you lose? You get a cruel twist of irony: the Scrap Pile feeds you instead of bleeding you out.
+When a Naked Viking Spurgles!, it's bare-knuckle brawling. No hidden cards, no lucky draws—just you, your hand, and your opponent facing off in direct combat. You're exposed, yeah, but you're also DANGEROUS. And when you lose? You get a cruel twist of irony: the Scrap Pile feeds you instead of bleeding you out.
 
 1. Naked Warriors play one card directly from ther Strategy Hand
 2. Naked Warriors do not get a chance to put down a second card 
