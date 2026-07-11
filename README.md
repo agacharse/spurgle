@@ -9,7 +9,7 @@ This game channels wild Norwegian roots and Viking spirit, blending rugged Nordi
 - [Turns](#turns)
   - [Scrap Raid](#scrap-raid)
   - [Spurgle](#spurgle)
-- [Naked Warrior](#naked-warrior)
+- [Naked Viking](#naked-viking)
   - [Naked Spurgle!](#naked-spurgle)
 
 **Win Condition:** Be the first player to empty their Strategy Hand
