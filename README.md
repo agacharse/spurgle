@@ -22,6 +22,14 @@ Two hands to rule them all. Your War Deck is pure, aggressive force—each card 
 2. Deal 5 more cards to each player for their Strategy Hand
 3. The remaining cards become the Scrap Pile
 
+### Card Values
+
+10 - 10
+J - 11
+Q - 12
+K - 13
+A - 14
+
 ### Turns
 
 Every turn is a nail-biter. Go for broke with a Spurgle! or hunt the discard pile for hidden treasure? This game is aggressive, but it is also fair—every move gives your opponent a chance to answer. Drop Melds like you're building a fortress—each one gets you closer to victory, but also strips away your defenses. The tension never stops.
