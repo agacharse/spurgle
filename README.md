@@ -24,11 +24,7 @@ Two hands to rule them all. Your War Deck is pure, aggressive force—each card 
 
 ### Card Values
 
-10 - 10
-J - 11
-Q - 12
-K - 13
-A - 14
+10 = 10, J = 11, Q = 12, K = 13, A = 14
 
 ### Turns
 
