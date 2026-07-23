@@ -12,15 +12,16 @@ This game channels wild Norwegian roots and Viking spirit, blending rugged Nordi
 - [Naked Viking](#naked-viking)
   - [Naked Spurgle!](#naked-spurgle)
 
-**Win Condition:** Be the first player to empty their Strategy Hand
+**Win Condition:** Be the first player to empty their Strategy Hand. Must have at least one meld.
 
 ### Dealing
 
 Two hands to rule them all. Your War Deck is pure, aggressive force—each card a blunt instrument in your arsenal. Your Strategy Hand? That's where the fair side of the game shines. Lay down devastating Melds, fuel your attacks, block incoming strikes, and ultimately—get rid of every last card to claim victory. Guard it like your life depends on it.
 
-1. Deal 5 cards to each player for their War Deck
-2. Deal 5 more cards to each player for their Strategy Hand
-3. The remaining cards become the Scrap Pile
+1. Shuffle two decks for 4-6 players
+2. Deal 5 cards to each player for their War Deck
+3. Deal 5 more cards to each player for their Strategy Hand
+4. The remaining cards become the Scrap Pile
 
 ### Card Values
 
@@ -46,7 +47,6 @@ Every turn is a nail-biter. Go for broke with a Spurgle! or hunt the discard pil
 This ain't the defensive play. Scrap Raiding is an aggressive predator's move—you're diving into the discard pile like a hungry shark, hunting for THAT card to turn the tide. You're weaponizing luck, burning through your War Deck in exchange for board advantage. Every Scrap Raid is a calculated gamble, and it's fair because every player can feel the same pressure: find your salvation or get picked clean.
 
 1. Take the top card from the Scrap Pile and add it to your Strategy Hand
-2. Take the top card from your War Deck and insert it to the Scrap Pile
 
 ##### Spurgle!
 
@@ -57,7 +57,7 @@ Spurgle! This is where dreams are made and broken. This is maximum chaos—cards
 3. Optional: The aggressor may play one card from their Strategy Hand to increase their total
 4. Optional: The defender may play one card from their Strategy Hand to increase their total
 5. The player with the highest total gathers all cards from the Spurgle! and adds them to their Strategy Hand
-6. The loser also takes the top card from the Scrap Pile and adds it to their War Deck
+6. The winner also takes the top card from the Scrap Pile and adds it to their War Deck
 
 
 ### Naked Viking
